@@ -1,0 +1,52 @@
+.body1{
+    background-color: grey;
+}
+.form
+{
+    position: absolute;
+    left: 60%;
+    top: 30%;
+    font-size: 25px;
+}
+
+::placeholder
+{
+    font-size: 20px;
+}
+
+.but
+{
+    position: absolute;
+    border-radius: 1000px;
+    background: #D9D9D9;
+    width: 177px;
+    height: 42px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 39px;
+    color: #000000;
+    left: 50%;
+}
+
+
+
+.login
+{
+   position: absolute;
+   left: 970px;
+   top: 15%;
+   font-style: normal;
+   font-size: 35px;
+   color: #070000;
+}
+
+.pic1
+{
+    position: absolute;
+    height: 1000px;
+    width: 500px;
+    top: 10%;
+    left: 10%;
+}
